@@ -1,5 +1,5 @@
 # HuiwenProject-Webfont
-本專案為匯文系列（Huiwen-Project）的非官方woff2版，提供jsDelivr網址以便嵌入進CSS。
+本專案為匯文系列（Huiwen Project）的非官方woff2版，提供jsDelivr網址以便嵌入進CSS。
 
 原作者：特里王（Terry Wang）
 ```
