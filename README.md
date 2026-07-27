@@ -8,5 +8,5 @@
   font-display: swap;
   font-style: normal;
   font-weight: 400
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenZhengkai-Webfont@v1.0.0/匯文正楷.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenZhengkai-Webfont@main/匯文正楷.woff2") format("woff2");
 }
