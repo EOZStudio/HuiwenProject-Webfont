@@ -9,7 +9,6 @@
   font-family: "Huiwen-Fangsong";
   font-display: swap;
   font-style: normal;
-  font-weight: 400
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文仿宋.woff2") format("woff2");
 }
 
@@ -17,7 +16,6 @@
   font-family: "Huiwen-Mincho";
   font-display: swap;
   font-style: normal;
-  font-weight: 400
   src: url("https://eozstudio.github.io/HuiwenProject-Webfont@main/匯文明朝體GBK.woff2") format("woff2");
 }
 
@@ -25,7 +23,6 @@
   font-family: "Huiwen-Zhengkai";
   font-display: swap;
   font-style: normal;
-  font-weight: 400
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文正楷.woff2") format("woff2");
 }
 
@@ -33,6 +30,5 @@
   font-family: "Huiwen-HKHei";
   font-display: swap;
   font-style: normal;
-  font-weight: 400
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文港黑.woff2") format("woff2");
 }
