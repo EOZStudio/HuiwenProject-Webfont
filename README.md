@@ -16,7 +16,7 @@
   font-family: "Huiwen-Mincho";
   font-display: swap;
   font-style: normal;
-  src: url("https://eozstudio.github.io/HuiwenProject-Webfont@main/匯文明朝體GBK.woff2") format("woff2");
+  src: url("https://eozstudio.github.io/HuiwenProject-Webfont/匯文明朝體GBK.woff2") format("woff2");
 }
 
 @font-face {
