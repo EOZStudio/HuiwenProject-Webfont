@@ -9,26 +9,26 @@
   font-family: "Huiwen-Fangsong";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文仿宋.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/StevenH1217/HuiwenProject-Webfont@main/匯文仿宋.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Huiwen-Mincho";
   font-display: swap;
   font-style: normal;
-  src: url("https://eozstudio.github.io/HuiwenProject-Webfont/匯文明朝體GBK.woff2") format("woff2");
+  src: url("https://StevenH1217.github.io/HuiwenProject-Webfont/匯文明朝體GBK.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Huiwen-Zhengkai";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文正楷.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/StevenH1217/HuiwenProject-Webfont@main/匯文正楷.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Huiwen-HKHei";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/HuiwenProject-Webfont@main/匯文港黑.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/StevenH1217/HuiwenProject-Webfont@main/匯文港黑.woff2") format("woff2");
 }
